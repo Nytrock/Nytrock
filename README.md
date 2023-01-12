@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Start.gif" height="500" />
+  <img src="Start.png" height="500" />
   
   <div id="badges">
     <a href="https://vk.com/nytrock">
