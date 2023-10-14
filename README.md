@@ -54,7 +54,7 @@ I am a 42% Full Stack Developer from Russia. My name is Savva and I'm a student.
 ### :bar_chart: My Stats :
 <img src="https://github-profile-trophy.vercel.app/?username=Nytrock&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="Nytrock stats"/>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytrock)](https://github.com/Nytrock)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nytrock&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nytrock)
 
