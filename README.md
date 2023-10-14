@@ -5,7 +5,7 @@
     <a href="https://vk.com/nytrock">
       <img src="https://img.shields.io/badge/VK Group-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Group Badge"/>
     </a>
-    <a href="https://vk.com/everything_develoer">
+    <a href="https://vk.com/csharpguy">
       <img src="https://img.shields.io/badge/VK Profile-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Profile Badge"/>
     </a>
     <a href="https://www.youtube.com/@Nytrock">
@@ -21,21 +21,15 @@
 
 ---
 
-<div align="center">
-  <img src="Plan.png" alt="Plan" width="max"/>
-</div>
-
----
-
 ### :computer: About Me :
-I am (almost) a Full Stack Developer from Russia. Me name is Savva and I'm is a high school student.
+I am a 42% Full Stack Developer from Russia. My name is Savva and I'm a student.
 - 👀 I’m interested in math and game development
-- 🤓 I'm good in Python 3
-- 🔭 I’m mainly working on my game "Portal Dimenshions"
+- 🤓 I'm good in Unity
+- 🔭 I’m mainly working on my games "Portal Dimenshions" and "Madness Cooking"
 - 👯 I’m looking to collaborate with any dude, who shares my view and ideas
 - 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with visual for my games
-- 📫 To contact me, you can write here: savvazhirnov@yandex.ru
+- 📫 To contact me, you can write here: savvazhirnov@gmail.com
 
 ---
 
@@ -50,8 +44,7 @@ I am (almost) a Full Stack Developer from Russia. Me name is Savva and I'm is a 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="50" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Firefox" alt="Firefox" width="50" height="50"/>&nbsp; 
 </div>
@@ -59,6 +52,13 @@ I am (almost) a Full Stack Developer from Russia. Me name is Savva and I'm is a 
 ---
 
 ### :bar_chart: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=nytrock&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=Nytrock&column=7&margin-w=15&margin-h=15&theme=onedark&no-bg=true&no-frame=true" width="100%" alt="Nytrock stats"/>
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytrock)](https://github.com/Nytrock)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nytrock&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nytrock)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
+
