@@ -11,6 +11,9 @@
     <a href="https://www.youtube.com/@Nytrock">
       <img src="https://img.shields.io/badge/YouTube-darkred?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
+    <a href="https://t.me/nytrock">
+      <img src="https://img.shields.io/badge/Telegram-1B92CE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
     <a href="https://www.twitch.tv/nytrock">
       <img src="https://img.shields.io/badge/Twich-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
     </a>
@@ -56,7 +59,7 @@ I am a 42% Full Stack Developer from Russia. My name is Savva and I'm a student.
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nytrock&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Nytrock)
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
 
