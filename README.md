@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="StartNewYear.png" height="500" />
+  <img src="Start.png" height="500" />
   
   <div id="badges">
     <a href="https://vk.com/nytrock">
@@ -59,7 +59,7 @@ I am a 42% Full Stack Developer from Russia. My name is Savva and I'm a student.
 
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nytrock&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/?username=nytrock&layout=compact&hide_border=true&theme=dark)](https://github.com/Nytrock)
 
