@@ -25,13 +25,13 @@
 ---
 
 ### :computer: About Me :
-I am a 42% Full Stack Developer from Russia. My name is Savva and I'm a student.
+I am a game developer from Russia. My name is Savva and I'm a student.
 - 👀 I’m interested in math and game development
 - 🤓 I'm good in Unity
-- 🔭 I’m mainly working on my games "Portal Dimenshions" and "Madness Cooking"
+- 🔭 I’m mainly working on the game "Madness Cooking"
 - 👯 I’m looking to collaborate with any dude, who shares my view and ideas
 - 🌱 I’m currently learning C#
-- 🤔 I’m looking for help with visual for my games
+- 🤔 I’m looking for help with visual and audio for my games
 - 📫 To contact me, you can write here: savvazhirnov@gmail.com
 
 ---
