@@ -1,10 +1,7 @@
 <div id="header" align="center">
-  <img src="Start.png" height="500" />
+  <img src="Header.png" />
   
   <div id="badges">
-    <a href="https://vk.com/nytrock">
-      <img src="https://img.shields.io/badge/VK Group-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Group Badge"/>
-    </a>
     <a href="https://vk.com/csharpguy">
       <img src="https://img.shields.io/badge/VK Profile-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Profile Badge"/>
     </a>
