@@ -7,13 +7,13 @@
 ---
 
 ### :computer: About Me :
-My name is Savva Zhirnov, and I am a Unity C# from Russia
-- 📚 I'm fourth-year Software Engineering student
-- 💼 I'm looking for a remote job in my field
-- 🔬 I have 2 years of experience and have completed several projects
-- 💿 I'm currently learning frameworks such as Zenject and DOTween
-- 📫 To contact me, you can write here: savvazhirnov@gmail.com
-
+I am Savva Zhirnov, a Junior+ Unity/C# Developer and a fourth-year
+Software Engineering student based in Bryansk, Russia.
+- Built and released a [cross-platform Unity game](https://github.com/Nytrock/MadnessCooking)
+- Experienced with C#, Unity, ScriptableObjects, uGUI, Animator, Localization, REST API integration, SSE, and custom editor tools
+- Interested in game development, simulations and interactive applications
+- Open to remote Junior+ Unity Developer and internship opportunities
+- Contact: savvazhirnov@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools:
